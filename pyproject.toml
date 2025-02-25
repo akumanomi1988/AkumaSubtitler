@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "akumasubtitler"
-version = "0.1.1"
+version = "0.1.2"
 description = "A tool for automatic subtitling"
 authors = [{ name = "akumanomi1988", email = "akumanomi1988@example.com" }]
 license = { file = "LICENSE" }
@@ -14,8 +14,8 @@ dependencies = [
     "moviepy==1.0.3",
     "openai-whisper==20231117",
     "ffmpeg-python==0.2.0",
-    "torch==2.1.2",
-    "tqdm==4.66.1"
+    "torch==2.4.1",
+    "tqdm==4.66.5"
 ]
 
 [project.urls]
