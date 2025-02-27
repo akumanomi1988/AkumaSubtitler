@@ -2,7 +2,7 @@
 
 **The ultimate tool for adding professional subtitles to your videos effortlessly.**
 
-![AkumaSubtitler Logo](https://assets.grok.com/anon-users/a4312ddf-1f70-4772-984d-764cce3cd201/QbigIphlII6TnbWH-generated_image.jpg)
+![AkumaSubtitler Logo](blob:https://designer.microsoft.com/e93dd93e-a188-4a40-9367-aa94332363d8)
 
 ![Status](https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-green)
 ![GitHub Stars](https://img.shields.io/github/stars/Akumanomi1988/AkumaSubtitler?style=social)
